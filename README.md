@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naufal Arie</h1>
 <h3 align="center">Passionated on Programming, Focused on Backend Engineer using Django Rest Framework.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noopalert&label=Profile%20views&color=0e75b6&style=flat" alt="noopalert" /> </p>
+- 🔭 I’m currently working on [Foreplan (Backend)](https://github.com/foreplan-id)
 
 - 🌱 I’m currently learning **JavaScript**
 
