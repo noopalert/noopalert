@@ -42,20 +42,18 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/noopalert/noopalert/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noopalert/noopalert/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noopalert/noopalert/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noopalert/noopalert/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/21m7z3zygillbwggqzgpcpzdy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m7z3zygillbwggqzgpcpzdy&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m7z3zygillbwggqzgpcpzdy&count=5" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=noopalert.noopalert&"  />
 </div>
 
 ###
